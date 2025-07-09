@@ -42,12 +42,3 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/Waqar-elahiheme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Waqar-elahiheme=buefy&layout=compact" />
-</a>
-
-<br/>
-
-
-⭐️ From [AVS1508](https://github.com/A
